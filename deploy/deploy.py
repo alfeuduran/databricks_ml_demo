@@ -19,7 +19,7 @@ new_cluster_config = """
 existing_cluster_id = '0820-100141-forum325'
 # Path to the notebook with the integration test
 notebook_path = '/test/unittest_model'
-repo_path = '/Repos/michael.shtelma@databricks.com/databricks_ml_demo'
+repo_path = '/Repos/alduran@microsoft.com/databricks_ml_demo'
 
 
 repos_path_prefix='/Repos/michael.shtelma@databricks.com/databricks_ml_demo'
